@@ -1,0 +1,3 @@
+/home/ntf/work/SrvEmail/build/CMakeFiles/SrvEmail.dir
+/home/ntf/work/SrvEmail/build/CMakeFiles/edit_cache.dir
+/home/ntf/work/SrvEmail/build/CMakeFiles/rebuild_cache.dir

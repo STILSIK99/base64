@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ntf/work/SrvEmail/build",
+  "command": "/usr/bin/g++ -I/home/ntf/work/SrvEmail/include -g -o CMakeFiles/SrvEmail.dir/main.cpp.o -c /home/ntf/work/SrvEmail/main.cpp",
+  "file": "/home/ntf/work/SrvEmail/main.cpp"
+},
+{
+  "directory": "/home/ntf/work/SrvEmail/build",
+  "command": "/usr/bin/g++ -I/home/ntf/work/SrvEmail/include -g -o CMakeFiles/SrvEmail.dir/source/tools.cpp.o -c /home/ntf/work/SrvEmail/source/tools.cpp",
+  "file": "/home/ntf/work/SrvEmail/source/tools.cpp"
+}
+]
